@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author mdpra
+ * @author kylep
  */
 public class Bank_Charges {
     public static void main(String[] args) {
