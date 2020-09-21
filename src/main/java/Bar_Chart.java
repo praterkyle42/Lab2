@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author mdpra
+ * @author kylep
  */
 public class Bar_Chart {
     public static void main(String[] args) {
